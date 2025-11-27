@@ -81,6 +81,18 @@ namespace FundApps.Engine.Rules
             foreach (var asset in portfolio.Assets)
             {
                 
+                
+                if (asset.MaturityDate == null)
+                {
+                    violations.Add(new RuleResult
+                    {
+                        IsBreached = true,
+                        Continent = asset.CompanyName,
+                        Message = $"Asset {asset.CompanyName} has no maturity date"
+                    });
+                    continue;
+                }
+                
                 if (asset.MaturityDate.Value < DateTime.Today)
                 {
                     // TODO: Log warning - future with past maturity date
