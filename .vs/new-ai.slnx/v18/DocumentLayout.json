@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Ingestion\\PortfolioParseResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Ingestion\\PortfolioParseResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Persistence\\InMemoryResultStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Persistence\\InMemoryResultStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\RuleResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Domain\\RuleResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Domain\\Portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FundApps.Engine\\Domain\\Asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioParseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Ingestion\\PortfolioParseResult.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Ingestion\\PortfolioParseResult.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Ingestion\\PortfolioParseResult.cs",
+              "RelativeToolTip": "FundApps.Engine\\Ingestion\\PortfolioParseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:15:21.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryResultStore.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Persistence\\InMemoryResultStore.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Persistence\\InMemoryResultStore.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Persistence\\InMemoryResultStore.cs",
+              "RelativeToolTip": "FundApps.Engine\\Persistence\\InMemoryResultStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:15:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleResult.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\RuleResult.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Domain\\RuleResult.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\RuleResult.cs",
+              "RelativeToolTip": "FundApps.Engine\\Domain\\RuleResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:14:24.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Asset.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Domain\\Asset.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Asset.cs",
+              "RelativeToolTip": "FundApps.Engine\\Domain\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:13:53.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Program.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Program.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Program.cs",
+              "RelativeToolTip": "FundApps.Engine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:13:52.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Portfolio.cs",
+              "RelativeDocumentMoniker": "FundApps.Engine\\Domain\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Stefa\\Downloads\\dot-net-bucket-netting\\new-ai\\FundApps.Engine\\Domain\\Portfolio.cs",
+              "RelativeToolTip": "FundApps.Engine\\Domain\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:13:33.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
